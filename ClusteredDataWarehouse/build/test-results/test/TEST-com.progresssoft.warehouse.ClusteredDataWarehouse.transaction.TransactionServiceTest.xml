@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.progresssoft.warehouse.ClusteredDataWarehouse.transaction.TransactionServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-13T18:36:39" hostname="DESKTOP-V1T6GPB" time="0.493">
+  <properties/>
+  <testcase name="canAddTransaction()" classname="com.progresssoft.warehouse.ClusteredDataWarehouse.transaction.TransactionServiceTest" time="0.493"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
